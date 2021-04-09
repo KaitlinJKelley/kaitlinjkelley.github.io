@@ -1,0 +1,32 @@
+{
+    "routes": [
+        {
+        "name": "Home To Grocery Store",
+        "origin": "1620 Fulton Street Brooklyn, NY 11213",
+        "destination": "77 Green Acres Rd S Valley Stream, NY 11581",
+        "userId": 2,
+        "id": 2
+        },
+        {
+        "name": "Home To Starbucks",
+        "origin": "4247 N. Eagle Rock Blvd Los Angeles, CA 90065",
+        "destination": "138 S Central Ave Los Angeles, CA 90012",
+        "userId": 3,
+        "id": 3
+        },
+        {
+        "name": "Boston Apartment To Boston Walmart",
+        "origin": "NEMA Boston, 399 Congress St Boston, MA 02210",
+        "destination": "Walmart, 301 Falls Blvd Quincy, MA 02169",
+        "userId": 1,
+        "id": 5
+        },
+        {
+        "name": "Home To Kid's School",
+        "origin": "4530 cypress shores dr mobile al 36695",
+        "destination": "2615 Longleaf Dr Mobile, AL 36693",
+        "userId": 1,
+        "id": 7
+        }
+    ],
+}
